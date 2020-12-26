@@ -364,3 +364,4 @@ Many thanks to [BrowserStack](https://www.browserstack.com/) for providing unlim
 - [Klaus Hartl](https://github.com/carhartl)
 - [Fagner Brack](https://github.com/FagnerMartinsBrack)
 - And awesome [contributors](https://github.com/js-cookie/js-cookie/graphs/contributors)
+#1
